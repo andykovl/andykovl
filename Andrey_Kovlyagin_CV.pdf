@@ -1,0 +1,820 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [40. 751.3299999999999272 194.6800000000000352 737.5299999999999727] /Border [0 0 0] /A <</S /URI /URI (mailto:andrey.kovlyagin@gmail.com) >> >>
+<</Type /Annot /Subtype /Link /Rect [208.120000000000033 751.3299999999999272 297.7599999999999909 737.5299999999999727] /Border [0 0 0] /A <</S /URI /URI (tel:+34677255561) >> >>
+<</Type /Annot /Subtype /Link /Rect [40. 734.5299999999999727 148.7199999999999989 720.7300000000000182] /Border [0 0 0] /A <</S /URI /URI (https://github.com/andykovl) >> >>
+<</Type /Annot /Subtype /Link /Rect [158.8000000000000114 734.5299999999999727 331.0000000000000568 720.7300000000000182] /Border [0 0 0] /A <</S /URI /URI (https://www.linkedin.com/in/andrey-kovlyagin) >> >>
+<</Type /Annot /Subtype /Link /Rect [341.0800000000000409 734.5299999999999727 413.9200000000000159 720.7300000000000182] /Border [0 0 0] /A <</S /URI /URI (https://chains.design) >> >>
+<</Type /Annot /Subtype /Link /Rect [143.4399999999999977 177.7300000000001319 366.0400000000000773 163.9300000000001774] /Border [0 0 0] /A <</S /URI /URI (https://chromewebstore.google.com/detail/chains/oahpcehkkamiegnlkafmondpcifenefm) >> >>
+]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5947
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 20 Tf
+28. TL
+0. g
+40. 801.8899999999999864 Td
+(Andrey Kovlyagin) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 773.8899999999999864 Td
+(Full-Stack Engineer · TypeScript · React / Node.js) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 757.0900000000000318 Td
+(Barcelona, Spain · Full right to work in Spain, no sponsorship needed) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+40. 740.2899999999999636 Td
+(andrey.kovlyagin@gmail.com) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+194.6800000000000352 740.2899999999999636 Td
+(  · ) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+208.120000000000033 740.2899999999999636 Td
+(+34 677 255 561) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+40. 723.4900000000000091 Td
+(github.com/andykovl) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+148.7199999999999989 723.4900000000000091 Td
+( · ) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+158.8000000000000114 723.4900000000000091 Td
+(linkedin.com/in/andrey-kovlyagin) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+331.0000000000000568 723.4900000000000091 Td
+( · ) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+341.0800000000000409 723.4900000000000091 Td
+(chains.design) Tj
+ET
+BT
+/F2 16 Tf
+22.3999999999999986 TL
+0. g
+40. 683.8899999999999864 Td
+(Professional Summary) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 661.4900000000000091 Td
+(Product-minded TypeScript engineer with a graphic-design background. I built and run Chains, a) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 644.6900000000000546 Td
+(multi-tenant workflow SaaS, owning UX, frontend and backend architecture, testing, and delivery) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 627.8899999999999864 Td
+(end to end.) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 605.0899999999999181 Td
+(AI-native workflow: I write specifications with Given/When/Then acceptance scenarios, drive) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 588.2899999999999636 Td
+(coding agents to implement them, and own architecture, code review, and verification through) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 571.4900000000000091 Td
+(automated tests. Looking for a product team where I can take ownership of features from idea to) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 554.6899999999999409 Td
+(production.) Tj
+ET
+BT
+/F2 16 Tf
+22.3999999999999986 TL
+0. g
+40. 515.0899999999999181 Td
+(Skills) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 492.6899999999999409 Td
+(Frontend: TypeScript, React, Next.js, Astro, TanStack Query/Table, Zustand, Redux Toolkit,) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 475.8899999999999295 Td
+(SCSS, Tailwind CSS, Storybook) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 459.0899999999999181 Td
+(Backend & Data: Node.js, NestJS, PostgreSQL, TypeORM, Supabase Auth/Storage, Socket.IO,) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 442.2899999999999068 Td
+(REST/OpenAPI) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 425.4899999999998954 Td
+(Testing & Quality: Vitest, Jest, Playwright \(E2E, accessibility\), Sentry, PostHog) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 408.689999999999884 Td
+(Platform: Docker, GitHub Actions CI/CD, GHCR, Linux/Nginx, AWS fundamentals) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 391.8899999999998727 Td
+(Product & Design: UX for complex workflows, SVG/canvas/PDF interfaces, Figma, Adobe) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 375.0899999999998613 Td
+(Creative Suite) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 358.2899999999998499 Td
+(Also: Chrome Extensions \(Manifest V3, WXT\), n8n, AI coding agents \(Codex, Claude Code,) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 341.4899999999998386 Td
+(Cursor\)) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 324.6899999999998272 Td
+(Languages: English \(professional working, B2\), Russian \(native\), Spanish \(A2\)) Tj
+ET
+BT
+/F2 16 Tf
+22.3999999999999986 TL
+0. g
+40. 285.0899999999999181 Td
+(Professional Experience) Tj
+ET
+BT
+/F2 12 Tf
+16.7999999999999972 TL
+0. g
+40. 256.6899999999999409 Td
+(Founder / Full-Stack Engineer — Chains.design) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0.4 g
+40. 239.8899999999999864 Td
+(Barcelona, March 2023 – Present) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 223.0900000000000318 Td
+(Workflow SaaS for editorial and design teams \(public beta\), in production with an external pilot) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 206.2900000000000773 Td
+(team for two years. TypeScript monorepo: React web app, NestJS/PostgreSQL API, Astro) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 189.4900000000001228 Td
+(marketing site, and a published browser extension.) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 166.6900000000001683 Td
+(Chrome extension: ) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+143.4399999999999977 166.6900000000001683 Td
+(chromewebstore.google.com/detail/chains) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 143.8900000000002137 Td
+(— ) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 143.8900000000002137 Td
+(Replaced the pilot team's Google Sheets coordination with a workflow engine that always) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 127.0900000000002592 Td
+(shows whose turn it is: status and next actions are derived automatically from submitted work) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 110.2900000000003047 Td
+(and approvals, so nobody updates statuses by hand.) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 93.4900000000003502 Td
+(— ) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 93.4900000000003502 Td
+(Designed a visual DAG workflow builder \(templates, parallel branches, merge points, roles\) for) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 76.6900000000003956 Td
+(modelling each team's process.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 4370
+>>
+stream
+0.200025 w
+0 G
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 801.8899999999999864 Td
+(— ) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 801.8899999999999864 Td
+(Built real-time collaborative PDF review: virtualized rendering, live cursors and presence,) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 785.0900000000000318 Td
+(optimistic annotations synced over Socket.IO, and PDF export.) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 768.2899999999999636 Td
+(— ) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 768.2899999999999636 Td
+(Built the NestJS/PostgreSQL backend with shared typed HTTP/WebSocket contracts,) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 751.4900000000000091 Td
+(tenant-aware authorization, and Supabase Auth/Storage.) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 734.6900000000000546 Td
+(— ) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 734.6900000000000546 Td
+(Defined and documented the frontend state architecture \(TanStack Query + Zustand\); set up) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 717.8899999999999864 Td
+(layered tests \(unit, integration, Playwright E2E\) and Docker/GitHub Actions CI/CD.) Tj
+ET
+BT
+/F2 12 Tf
+16.7999999999999972 TL
+0. g
+40. 689.0900000000000318 Td
+(Full-Stack Developer — Jupid \(Fintech Startup\)) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0.4 g
+40. 672.2899999999999636 Td
+(Barcelona, April – October 2025) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 655.4900000000000091 Td
+(Early-stage AI accounting SaaS. Worked in a small product team directly with the CTO.) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 632.6900000000000546 Td
+(— ) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 632.6900000000000546 Td
+(Shipped production frontend features with Next.js, TypeScript, and TanStack Query.) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 615.8899999999999864 Td
+(— ) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 615.8899999999999864 Td
+(Implemented and maintained integrations with banking APIs \(Banno\), Stripe, Customer.io, and) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 599.0899999999999181 Td
+(PostHog.) Tj
+ET
+BT
+/F2 12 Tf
+16.7999999999999972 TL
+0. g
+40. 570.2899999999999636 Td
+(Web Developer — Tomita Software) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0.4 g
+40. 553.4900000000000091 Td
+(October 2020 – May 2023) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 536.6899999999999409 Td
+(— ) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 536.6899999999999409 Td
+(Maintained 10 client web platforms \(Symfony, React\) in a ticket-driven workflow: production) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 519.8899999999998727 Td
+(UI/layout fixes and small functional updates.) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 503.0899999999999181 Td
+(— ) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 503.0899999999999181 Td
+(Built several marketing websites from scratch.) Tj
+ET
+BT
+/F2 12 Tf
+16.7999999999999972 TL
+0. g
+40. 474.2899999999999068 Td
+(Front-end Developer — Kamina Mental Health Platform) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0.4 g
+40. 457.4899999999998954 Td
+(Project-based, January 2024) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 440.689999999999884 Td
+(— ) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 440.689999999999884 Td
+(Delivered a responsive multilingual landing page in one month, including an interactive SVG) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 423.8899999999998727 Td
+(illustration, working directly with stakeholders.) Tj
+ET
+BT
+/F2 12 Tf
+16.7999999999999972 TL
+0. g
+40. 395.0899999999998613 Td
+(Graphic Designer) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0.4 g
+40. 378.2899999999998499 Td
+(Moscow, October 2017 – March 2023) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+40. 361.4899999999998386 Td
+(— ) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 361.4899999999998386 Td
+(Editorial, branding, and wayfinding design: 10+ books, 30+ magazine issues, 150+ wayfinding) Tj
+ET
+BT
+/F1 12 Tf
+16.7999999999999972 TL
+0. g
+55.3599999999999994 344.6899999999998272 Td
+(stands for public spaces.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 2.5.2)
+/CreationDate (D:20261103162125+01'00')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000011898 00000 n 
+0000013723 00000 n 
+0000000015 00000 n 
+0000001340 00000 n 
+0000007339 00000 n 
+0000007476 00000 n 
+0000011961 00000 n 
+0000012086 00000 n 
+0000012216 00000 n 
+0000012349 00000 n 
+0000012487 00000 n 
+0000012611 00000 n 
+0000012740 00000 n 
+0000012872 00000 n 
+0000013008 00000 n 
+0000013136 00000 n 
+0000013263 00000 n 
+0000013392 00000 n 
+0000013525 00000 n 
+0000013627 00000 n 
+0000013973 00000 n 
+0000014059 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <B02B284DC44D697E5325719DBA9A6DC3> <B02B284DC44D697E5325719DBA9A6DC3> ]
+>>
+startxref
+14163
+%%EOF
