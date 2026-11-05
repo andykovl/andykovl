@@ -18,8 +18,5 @@ Multi-tenant workflow SaaS for editorial and design teams, in production with an
 
 **Stack:** TypeScript · React · Vite · TanStack Query · Zustand · NestJS · PostgreSQL · TypeORM · Supabase · Socket.IO · Astro · WXT · Vitest · Playwright · Docker
 
-## How I work
-AI-native: I write specs and drive coding agents; I own the architecture, review, and verification.
-
 ## Contact
-[CV (PDF)](Andrey_Kovlyagin_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/andrey-kovlyagin) · andrey.kovlyagin@gmail.com
+[CV](Andrey_Kovlyagin_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/andrey-kovlyagin) · andrey.kovlyagin@gmail.com
