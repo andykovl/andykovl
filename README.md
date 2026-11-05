@@ -7,12 +7,14 @@ Open to product engineer / frontend / full-stack roles, Barcelona or remote from
 
 Multi-tenant workflow SaaS for editorial and design teams, in production with an external pilot team for two years. Private source; live walkthrough on request.
 
+**DAG workflow builder:** the team always sees whose turn it is, with no manual status updates. A server-authoritative runtime derives status and permissions from phase commits and approvals.
+
 ![Workflow builder: parallel branches, a chain advancing live as teammates approve](assets/chains-workflow.gif)
+
+**Real-time PDF review:** virtualized rendering, presence, optimistic annotations.
 
 ![Collaborative PDF review with live cursors and annotations](assets/chains-pdf-review.gif)
 
-- **DAG workflow builder** with a server-authoritative runtime that derives status and permissions from commits and approvals
-- **Real-time PDF review:** virtualized rendering, presence, optimistic annotations
 - **350+ test files:** unit, PostgreSQL integration, Playwright E2E; affected-path CI, health-checked deploys
 - **[Chrome extension](https://chromewebstore.google.com/detail/chains/oahpcehkkamiegnlkafmondpcifenefm)** (MV3)
 
