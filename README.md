@@ -15,7 +15,7 @@ Multi-tenant workflow SaaS for editorial and design teams, in production with an
 
 ![Collaborative PDF review with live cursors and annotations](assets/chains-pdf-review.gif)
 
-- **350+ test files:** unit, PostgreSQL integration, Playwright E2E; affected-path CI, health-checked deploys
+- **Tests:** unit, PostgreSQL integration, Playwright E2E; affected-path CI, health-checked deploys
 - **[Chrome extension](https://chromewebstore.google.com/detail/chains/oahpcehkkamiegnlkafmondpcifenefm)** (MV3)
 
 **Stack:** TypeScript · React · Vite · TanStack Query · Zustand · NestJS · PostgreSQL · TypeORM · Supabase · Socket.IO · Astro · WXT · Vitest · Playwright · Docker
